@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tutos",
+  "info": {
+    "singularName": "tuto",
+    "pluralName": "tutos",
+    "displayName": "tuto"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title"
+    }
+  }
+}

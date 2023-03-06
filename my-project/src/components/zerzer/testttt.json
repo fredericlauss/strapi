@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_zerzer_testttts",
+  "info": {
+    "displayName": "testttt"
+  },
+  "options": {},
+  "attributes": {
+    "sdfsdfsdf": {
+      "type": "enumeration",
+      "enum": [
+        "'\"(\"'(zefsdfs"
+      ]
+    }
+  }
+}
